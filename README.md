@@ -5,14 +5,14 @@ A data science-based package that aims to provide insights and analysis on your 
 Whether you're interested in analyzing your personal chat history or conducting research on communication patterns, the WhatsApp Analyzer package provides a user-friendly platform to visualize and interpret your chat data.
 
 
------
+
 
 
 # Installation
 
     pip install whatsapp-analyzer
 
------
+
 
 
 # Getting Started
@@ -42,7 +42,7 @@ In order to perform data analysis and visualization on the data it needs to be p
     print(preprocessed_data)`
 
 
------
+
 
 
 ##  *Visualizing the Data from .txt File:*
@@ -128,4 +128,4 @@ There is wide range of options provided to analyze the chat history:
         activity_heatmap(preprocessed_data)
 
 
------
+

@@ -10,6 +10,7 @@ Whether you're interested in analyzing your personal chat history or conducting 
 
 # Installation
 
+    pip install whatsapp-analyzer
 
 -----
 

@@ -41,6 +41,10 @@ In order to perform data analysis and visualization on the data it needs to be p
     
     print(preprocessed_data)`
 
+
+-----
+
+
 ##  *Visualizing the Data from .txt File:*
 
 There is wide range of options provided to analyze the chat history:
@@ -124,3 +128,4 @@ There is wide range of options provided to analyze the chat history:
         activity_heatmap(preprocessed_data)
 
 
+-----
